@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Kzeezee/Kzeezee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+  <a href="https://github.com/Kzeezee?tab=repositories">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Kzeezee&theme=vue&layout=compact"     alt="top langs" height="156"/>
+  </a>
+</p>
